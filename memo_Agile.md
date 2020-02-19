@@ -16,10 +16,10 @@ Liste ordonnancée (priorisée) des besoins (généralement formulés sous forme
 ### Product Owner
 Représentant des utilisateurs qui porte la vision du produit que l'on souhaite réaliser dans le cadre du projet. Il est responsable du Product Backlog et en interaction directe avec la Dev team.
 
-###Release
+### Release
 Une release est une nouvelle version du produit, livrée aux utilisateurs. Elle est le fruit de plusieurs Sprints.
 
-###Scrum Master
+### Scrum Master
 Garant du respect du cadre méthodologique Scrum. Il a également un rôle de coach vis à vis de la Dev Team et du Product Owner afin d’aider ces derniers à jouer pleinement leur rôle.
 
 ### Sprint
